@@ -32,6 +32,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📸 Screenshots
 
 
@@ -42,6 +43,7 @@
 
 
 ![About](./screenshots/img3.png)
+
 
 
 
@@ -102,5 +104,4 @@ Create a new ATS Friendly Resume Builder.
 
 
   
-
 
