@@ -1,4 +1,4 @@
-// src/components/careerAdvisor/CareerAdvisor.jsx
+
 import React, { useContext, useState } from "react";
 import ResumeContext from "../../Context/ResumeContext.js";
 import "./CareerAdvisor.css";
