@@ -1,4 +1,4 @@
-#### Resume Craft 
+
 # 📄 ResumeCraft
 
 > ✨ A modern, customizable resume builder with theme support, AI career advisor, and authentication. Built with React, Chakra UI, Node.js, and MongoDB.
