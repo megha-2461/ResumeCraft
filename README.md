@@ -1,5 +1,78 @@
-#### Resume Craft 
-ResumeCraft is a dynamic resume creation platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It empowers users to design, personalize, and download professional CVs effortlessly. With an intuitive and responsive user interface, users can input personal information, educational background, job history, technical skills, and more. All user entries are securely stored in a MongoDB database, ensuring reliable data persistence and privacy.
+
+# 📄 ResumeCraft
+
+> ✨ A modern, customizable resume builder with theme support, AI career advisor, and authentication. Built with React, Chakra UI, Node.js, and MongoDB.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js  
+- Chakra UI  
+- React Router  
+
+**Backend**
+- Node.js  
+- Express.js  
+- MongoDB (Mongoose)  
+- JWT Authentication  
+
+---
+
+## 🔐 Features
+
+-  Theme-based resume generation  
+-  Real-time resume preview  
+-  Dark/light mode support   
+- User login & signup with JWT 
+- Career Advisor (OpenAI Integration) 
+- Save/download resume in PDF  
+- User-specific resume storage  
+
+---
+
+## 📸 Screenshots
+
+
+![Home Page](./screenshots/img2.png)
+
+
+![Login](./screenshots/img1.png)
+
+
+![About](./screenshots/img3.png)
+
+
+
+
+## 📦 Installation (Local Setup)
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/<your-username>/ResumeCraft.git
+   cd ResumeCraft
+
+2. Install the dependencies for both the client and server:
+   ```bash
+   npm install
+   ```
+
+## Running the Application: -
+
+2. Start the frontend development server:
+   ```bash
+   npm start
+   ```
+
+   3. Start the backend development server:
+   ```bash
+   node index.js
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+
+
 
 ## Key Features:- 
 
@@ -27,44 +100,7 @@ React.js, BootstrapBackend: Node.js, Express.jsDatabase: MongoDBAuthentication: 
 Create a new ATS Friendly Resume Builder.
 
 
-## Technology Stack
 
-- **Frontend:**
-  - React
-  - CSS 
   
 
-### Prerequisites
 
-Ensure you have the following installed:
-
-- Node.js
-- npm 
-
-### Installation
-
-1. Clone the repository:
-
-2. Install the dependencies for both the client and server:
-   ```bash
-   npm install
-   ```
-
-## Running the Application: -
-
-2. Start the frontend development server:
-   ```bash
-   npm start
-   ```
-
-3. Open your browser and navigate to `http://localhost:3000` to see the application in action.
-
-
-
-
-
-
-
----
-
-#
